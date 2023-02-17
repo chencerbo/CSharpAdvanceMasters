@@ -27,8 +27,8 @@ namespace Assignment_01
         }
 
         public void CreateDetails(string crcMovieTitle, string crcMovieYear) 
-        {            
-            //3. raise an event and a new instance of the OrderEventArgs class
+        {
+            // Raise an event and a new instance of the RentalEventArgs class
             if (OnRental != null)
             {
                 OnRental(this, new RentalEventArgs { RentedMovie = new Video { Title = crcMovieTitle, Year = crcMovieYear } });
@@ -40,14 +40,14 @@ namespace Assignment_01
         public static void RemoveRentedMovieFromList(object sender, RentalEventArgs e) 
         {
             Console.WriteLine($"Removing from list with movie details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
-            // TODO: Call another method/class that will remove rented movie details from json file.
+            // Message to remove rented movie details from json file.
         }
 
         public static void SendEmail(object sender, RentalEventArgs e)
         {
             Console.WriteLine($"Sending an email with movie details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
             // Call MailService.cs to send email with details of rented movie
-            EmailExtendingEventArgs.EmailEvent("chen.cerbo@gmail.com", "cerbochen@gmail.com", "Test Movie Rental", $"You've rented a movie with details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
+            EmailExtendingEventArgs.EmailEvent("crc933619@gmail.com", "gjgceredon@gmail.com", "Movie Rental Store Notification", $"You've rented a movie with details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
         }
 
         public static void DisplayMessage(object sender, RentalEventArgs e)

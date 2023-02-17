@@ -12,7 +12,7 @@ namespace Assignment_01
     }
     public class EmailExtendingEventArgs 
     {
-        //2.define the event using the EventHandler with the OrderEventArgs type
+        // Define the event using the EventHandler with the EmailExtendingEventArgs type
         private event EventHandler<EmailEventArgs> OnSend;
 
         public static void EmailEvent(string emailFrom, string emailTo, string subject, string body)
@@ -26,7 +26,7 @@ namespace Assignment_01
 
         private void CreateEmail(string emailFrom, string emailTo, string subject, string body)
         {
-            //Raising an Event
+            // Raising an Event
             if (OnSend != null)
             {
                 OnSend(this, new EmailEventArgs 

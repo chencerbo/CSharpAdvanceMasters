@@ -28,6 +28,9 @@ namespace Assignment_01
                     new FigletText($"Video Rental Store")
                         .Centered()
                         .Color(Color.Aqua));
+               
+                GetAppDetails();
+                Console.WriteLine("\n");
 
                 var crcToDo = AnsiConsole.Prompt(
                     new SelectionPrompt<string>()    // change according to what event
@@ -48,11 +51,7 @@ namespace Assignment_01
                 switch (crcToDoOptionNum)
                 {
                     case 1:
-                        // TODO: Call trigger for rental video
-                        // Remove from list
-                        // Email
-                        // Message
-
+                        // Displays selection of movies
                         var crcMovieSelection = AnsiConsole.Prompt(
                             new SelectionPrompt<string>()    // change according to what event
                            .PageSize(10)
@@ -68,6 +67,7 @@ namespace Assignment_01
 
                         var crcMovie = crcMarvelVideos.Where(m => m.Id == crcMovieOptionNum).FirstOrDefault();
 
+                        // Call event to rent for a movie
                         RentalExtendingEventArgs.RentalEvent(crcMovie.Title, crcMovie.Year);
 
                         crcMarvelVideos.Remove(crcMovie);
@@ -99,6 +99,35 @@ namespace Assignment_01
                 Console.WriteLine("\n");
             }
             return;
+        }
+
+        public static void GetAppDetails() 
+        {
+            var table = new Table().Centered();
+
+            AnsiConsole.Live(table)
+                .Start(ctx =>
+                {
+                    table.AddColumn("Assignment No.");
+                    ctx.Refresh();
+                    Thread.Sleep(1000);
+
+                    table.AddColumn("Author");
+                    ctx.Refresh();
+                    Thread.Sleep(1000);
+
+                    table.AddColumn("Date");
+                    ctx.Refresh();
+                    Thread.Sleep(1000);
+
+                    table.AddColumn("Description");
+                    ctx.Refresh();
+                    Thread.Sleep(1000);
+
+                    table.AddRow("1 & 2", "Chen Cerbo", "02/17/23", "Console app that monitors movie rental store");
+                    ctx.Refresh();
+                    Thread.Sleep(1000);
+                });
         }
     }
 }

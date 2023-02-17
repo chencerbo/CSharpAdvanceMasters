@@ -16,7 +16,7 @@ namespace Assignment_01
 
     public class MessageExtendingEventArgs 
     {
-        //2.define the event using the EventHandler with the OrderEventArgs type
+        // Define the event using the EventHandler with the MessageEventArgs type
         private event EventHandler<MessageEventArgs> OnDisplay;
 
         public static void MessageEvent(string msg)
@@ -30,7 +30,7 @@ namespace Assignment_01
 
         private void CreateDisplay(string msg)
         {
-            //Raising an Event
+            // Raising an Event
             if (OnDisplay != null)
             {
                 OnDisplay(this, new MessageEventArgs{ Message = msg});
