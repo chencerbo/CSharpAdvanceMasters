@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "Title": "Captain America: The First Avenger",
+    "Year": "2011"
+  },
+  {
+    "Id": 2,
+    "Title": "Captain Marvel",
+    "Year": "2019"
+  },
+  {
+    "Id": 3,
+    "Title": "Iron Man",
+    "Year": "2008"
+  },
+  {
+    "Id": 4,
+    "Title": "Iron Man 2",
+    "Year": "2010"
+  },
+  {
+    "Id": 5,
+    "Title": "The Incredible Hulk",
+    "Year": "2008"
+  },
+  {
+    "Id": 6,
+    "Title": "Thor",
+    "Year": "2011"
+  },
+  {
+    "Id": 7,
+    "Title": "The Avengers",
+    "Year": "2012"
+  },
+  {
+    "Id": 8,
+    "Title": "Iron Man 3",
+    "Year": "2013"
+  },
+  {
+    "Id": 9,
+    "Title": "Thor: The Dark World",
+    "Year": "2013"
+  },
+  {
+    "Id": 10,
+    "Title": "Captain America: The Winter Soldier",
+    "Year": "2014"
+  },
+  {
+    "Id": 11,
+    "Title": "Guardians of the Galaxy",
+    "Year": "2014"
+  },
+  {
+    "Id": 12,
+    "Title": "Avengers: Age of Ultron",
+    "Year": "2015"
+  },
+  {
+    "Id": 13,
+    "Title": "Ant-Man",
+    "Year": "2015"
+  },
+  {
+    "Id": 14,
+    "Title": "Captain America: Civil War",
+    "Year": "2016"
+  },
+  {
+    "Id": 15,
+    "Title": "Spiderman: Homecoming",
+    "Year": "2017"
+  },
+  {
+    "Id": 16,
+    "Title": "Doctor Strange",
+    "Year": "2016"
+  },
+  {
+    "Id": 17,
+    "Title": "Black Panther",
+    "Year": "2018"
+  },
+  {
+    "Id": 18,
+    "Title": "Thor: Ragnarok",
+    "Year": "2017"
+  },
+  {
+    "Id": 19,
+    "Title": "Ant-Man and the Wasp",
+    "Year": "2018"
+  },
+  {
+    "Id": 20,
+    "Title": "Black Widow",
+    "Year": "2021"
+  }
+]
