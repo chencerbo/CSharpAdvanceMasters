@@ -15,7 +15,6 @@ namespace Assignment_02
             {
                 AnsiConsole.Write(new FigletText($"Pets and Abilities").Centered().Color(Color.DarkSeaGreen));
 
-                //GetAppDetails();
                 Console.WriteLine("\n");
 
                 var crcFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Pets.dll");
@@ -92,34 +91,6 @@ namespace Assignment_02
 
                 Console.WriteLine("\n");
             }
-        }
-        public static void GetAppDetails()
-        {
-            var table = new Table().Centered();
-
-            AnsiConsole.Live(table)
-                .Start(ctx =>
-                {
-                    table.AddColumn("Assignment No.");
-                    ctx.Refresh();
-                    Thread.Sleep(1000);
-
-                    table.AddColumn("Author");
-                    ctx.Refresh();
-                    Thread.Sleep(1000);
-
-                    table.AddColumn("Date");
-                    ctx.Refresh();
-                    Thread.Sleep(1000);
-
-                    table.AddColumn("Description");
-                    ctx.Refresh();
-                    Thread.Sleep(1000);
-
-                    table.AddRow("3 & 4", "Chen Cerbo", "02/28/23", "Console app that list animals with properties and their abilities");
-                    ctx.Refresh();
-                    Thread.Sleep(1000);
-                });
         }
 
         public static List<string> ShowAbilities(Type crcType) 
