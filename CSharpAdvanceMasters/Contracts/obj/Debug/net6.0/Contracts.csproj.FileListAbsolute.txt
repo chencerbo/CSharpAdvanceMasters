@@ -1,0 +1,12 @@
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Contracts\obj\Debug\net6.0\ref\Contracts.dll

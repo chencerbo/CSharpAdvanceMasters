@@ -1,0 +1,15 @@
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\bin\Debug\net6.0\Pets.deps.json
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\bin\Debug\net6.0\Pets.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\bin\Debug\net6.0\Pets.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\bin\Debug\net6.0\Contracts.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\bin\Debug\net6.0\Contracts.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.csproj.AssemblyReference.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.AssemblyInfoInputs.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.AssemblyInfo.cs
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.csproj.CoreCompileInputs.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.csproj.CopyComplete
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\refint\Pets.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\Pets.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Pets\obj\Debug\net6.0\ref\Pets.dll
