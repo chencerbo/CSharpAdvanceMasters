@@ -1,0 +1,17 @@
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\bin\Debug\net6.0\Assignment_03.exe
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\bin\Debug\net6.0\Spectre.Console.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.csproj.AssemblyReference.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.AssemblyInfoInputs.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.AssemblyInfo.cs
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.csproj.CoreCompileInputs.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.csproj.CopyComplete
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\refint\Assignment_03.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\bin\Debug\net6.0\Assignment_03.deps.json
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\bin\Debug\net6.0\Assignment_03.runtimeconfig.json
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\bin\Debug\net6.0\Assignment_03.dll
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\bin\Debug\net6.0\Assignment_03.pdb
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\Assignment_03.genruntimeconfig.cache
+C:\CognizantSoftvision\Masters\Assignments\CSharpAdvanceMasters\Assignment_03\obj\Debug\net6.0\ref\Assignment_03.dll
