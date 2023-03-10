@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRA+YZ805APFl1n5niQgU3fAMd8Cg7AtR2Z5du5Ez832noChoJV4Qzc6xVZhz36AOsbmoNIRFPS4oGI5Ks6+qg==",
+  "success": true,
+  "projectFilePath": "C:\\CognizantSoftvision\\Masters\\Assignments\\CSharpAdvanceMasters\\Assignment_03\\Assignment_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GC592KY\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\GC592KY\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
