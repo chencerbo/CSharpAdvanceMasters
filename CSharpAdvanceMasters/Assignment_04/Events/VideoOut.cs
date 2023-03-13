@@ -49,7 +49,7 @@ namespace Assignment_04.Events
         {
             Console.WriteLine($"Sending an email with movie details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
             // Call MailService.cs to send email with details of rented movie
-            EmailExtendingEventArgs.EmailEvent("crc933619@gmail.com", "chen.cerbo@gmail.com", "Movie Rental Store Notification", $"You've rented a movie with details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
+            EmailExtendingEventArgs.EmailEvent("crc933619@gmail.com", "gjgceredon@gmail.com", "Movie Rental Store Notification", $"You've rented a movie with details: {e.RentedMovie.Title}, {e.RentedMovie.Year}");
         }
 
         public static void DisplayMessage(object sender, RentalEventArgs e)
